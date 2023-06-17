@@ -1,27 +1,5 @@
 # faker.js - generate massive amounts of fake data in the browser and node.js
 
-![Faker.js](https://raw.githubusercontent.com/jayluxferro/faker.js/main/logo.png)
-
-[![Build Status](https://travis-ci.org/jayluxferro/faker.js.svg?branch=master)](https://travis-ci.org/jayluxferro/faker.js) [![Coverage Status](https://coveralls.io/repos/github/jayluxferro/faker.js/badge.svg?branch=master)](https://coveralls.io/github/jayluxferro/faker.js?branch=master)
-
-[![npm version](https://badge.fury.io/js/faker.svg)](http://badge.fury.io/js/faker)
-
-[![OpenCollective](https://opencollective.com/fakerjs/backers/badge.svg)](#backers)
-[![OpenCollective](https://opencollective.com/fakerjs/sponsors/badge.svg)](#sponsors)
-[![Gitter chat](https://badges.gitter.im/marak/faker.js.png)](https://gitter.im/Faker-js/community)
-
-## Demo
-
-[https://rawgit.com/jayluxferro/faker.js/main/examples/browser/index.html](https://rawgit.com/jayluxferro/faker.js/main/examples/browser/index.html)
-
-### Faker Cloud
-
-Don't have a local development setup ready?
-
-Try our hosted version of Faker at [https://fakercloud.com/api](https://fakercloud.com/api)
-
-https://github.com/faker/faker-cloud
-
 ## Usage
 
 ### Browser
@@ -46,10 +24,6 @@ var randomCard = faker.helpers.createCard(); // random contact card containing m
 ```
 
 ## API
-
-### JSDoc API Browser
-
-[http://marak.github.io/faker.js/](http://marak.github.io/faker.js/)
 
 ### API Methods
 
